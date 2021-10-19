@@ -1,6 +1,6 @@
 # Olá Dev's, tudo bom? 
  
-Eu me chamo Felipe Carvalho, atualmente sou aluno da Graduação em Tecnologia da Informação (Bacharelado) pela Universidade Federal Rural do Semiárido (UFERSA) e aluno do Curso Técnico em Informática para Internet pelo Instituto Metrópole Digital (IMD) - UFRN. Tenho pouca experiência na área de Desenvolvimento Mobile e possuo interesse em Desenvolvimento Web com ênfase em Desenvolvimento Front-End, e nas tecnologias React e React Native, além de ser grande apreciador de User Experience (UX) e User Interface (UI).
+Me chamo Felipe Carvalho, atualmente sou aluno da Graduação em Tecnologia da Informação (Bacharelado) pela Universidade Federal Rural do Semiárido (UFERSA) e Técnico em Informática para Internet pelo Instituto Metrópole Digital (IMD) - UFRN. Tenho pouca experiência na área de Desenvolvimento Mobile e possuo interesse em Desenvolvimento Web com ênfase em Desenvolvimento Front-End, e nas tecnologias React e React Native, além de ser grande apreciador de User Experience (UX) e User Interface (UI).
 
 </br>
 
