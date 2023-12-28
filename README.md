@@ -6,8 +6,8 @@ Me chamo Felipe Carvalho, sou Técnico em Informática para Internet pelo Instit
 
 <div align="center">
   <a href="https://github.com/FelipeCarv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeCarv&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCarv&layout=compact&langs_count=7&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oecarvalho&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oecarvalho&layout=compact&langs_count=7&theme=aura"/>
 </div>
  
  ##
