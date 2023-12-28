@@ -1,6 +1,6 @@
 # Olá Dev's, tudo bem? 
  
-Me chamo Felipe Carvalho, Técnico em Informática para Internet pelo IMD/UFRN, Bacharel em Tecnologia da Informação e Acadêmico em Engenharia de Software pela UFERSA - Pau dos ferros, possuo experiência na área de Desenvolvimento Front-End com as tecnologias HTML, CSS, Javascript, React e Sass. Além disso, possuo conhecimentos e sou entusiasta em User Experience (UX) e User Interface (UI). 
+Me chamo Felipe Carvalho, sou Técnico em Informática para Internet pelo Instituto Metrópole Digital - UFRN, Bacharel em Tecnologia da Informação e Acadêmico em Engenharia de Software pela Universidade Federal Rural do Semiárido (UFERSA) - Pau dos ferros, possuo experiência na área de Desenvolvimento Front-End com as tecnologias HTML, CSS, Javascript, React e Sass. Além disso, possuo conhecimentos e sou entusiasta em User Experience (UX) e User Interface (UI). 
 
 </br>
 
