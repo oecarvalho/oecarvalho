@@ -1,26 +1,31 @@
-# Olá Dev's, tudo bem? 
- 
-Me chamo Felipe Carvalho, sou Técnico em Informática para Internet pelo Instituto Metrópole Digital - UFRN, Bacharel em Tecnologia da Informação e Acadêmico em Engenharia de Software pela Universidade Federal Rural do Semiárido (UFERSA) - Pau dos ferros, possuo experiência na área de Desenvolvimento Front-End com as tecnologias HTML, CSS, Javascript, React e Sass. Além disso, possuo conhecimentos e sou entusiasta em User Experience (UX) e User Interface (UI). 
+# Felipe Carvalho
+Front-End Developer & UX/UI Designer
+
+- Técnico em Informática para Internet pelo Instituto Metrópole Digital - UFRN;
+- Acadêmico em Tecnologia da Informação (UFERSA) - Pau dos ferros;
+- Acadêmico em Engenharia de Software (UFERSA) - Pau dos ferros;
+  
+Possuo experiência na área de Desenvolvimento Front-End além de que sou entusiasta em User Experience (UX) e User Interface (UI). 
 
 </br>
 
 <div align="center">
-  <a href="https://github.com/FelipeCarv">
+  <a href="https://github.com/oecarvalho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oecarvalho&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oecarvalho&layout=compact&langs_count=7&theme=aura"/>
 </div>
- 
- ##
- 
- <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="SASS" height="30" width="40" src="https://img.icons8.com/color/344/sass.png">
-</div>
-  
+
+## Ferramentas e Tecnologias
+
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
 
 ## 🌐 Me acompanhe nas redes:
  <div> 
