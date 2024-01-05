@@ -4,17 +4,17 @@ Front-End Developer & UX/UI Designer
 - Técnico em Informática para Internet pelo Instituto Metrópole Digital - UFRN;
 - Acadêmico em Tecnologia da Informação (UFERSA) - Pau dos ferros;
 - Acadêmico em Engenharia de Software (UFERSA) - Pau dos ferros;
-  
-Possuo experiência na área de Desenvolvimento Front-End além de que sou entusiasta em User Experience (UX) e User Interface (UI). 
+Possuo experiência na área de Desenvolvimento Front-End além de que sou entusiasta em User Experience (UX) e User Interface (UI).
 
+👨🏼‍💻 Estudando: React
 </br>
 
 <div align="center">
   <a href="https://github.com/oecarvalho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oecarvalho&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oecarvalho&theme=aura"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oecarvalho&layout=compact&langs_count=7&theme=aura"/>
 </div>
-
+    
 ## Ferramentas e Tecnologias
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
