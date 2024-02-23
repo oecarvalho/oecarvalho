@@ -1,5 +1,5 @@
 # Felipe Carvalho
-Front-End Developer & UX/UI Designer
+Um potiguar Front-End Developer & UX/UI Designer.
 
 - Técnico em Informática para Internet pelo Instituto Metrópole Digital - UFRN;
 - Acadêmico em Tecnologia da Informação (UFERSA) - Pau dos ferros;
