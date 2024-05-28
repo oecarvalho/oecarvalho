@@ -2,7 +2,7 @@
 Um potiguar Front-End Developer & UX/UI Designer.
 
 - Técnico em Informática para Internet pelo Instituto Metrópole Digital - UFRN;
-- Acadêmico em Tecnologia da Informação (UFERSA) - Pau dos ferros;
+- Bacharel em Tecnologia da Informação (UFERSA) - Pau dos ferros;
 - Acadêmico em Engenharia de Software (UFERSA) - Pau dos ferros;
   
 Possuo experiência na área de Desenvolvimento Front-End além de que sou entusiasta em User Experience (UX) e User Interface (UI).
