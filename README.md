@@ -7,7 +7,6 @@ Um potiguar Front-End Developer & UX/UI Designer.
   
 Possuo experiência na área de Desenvolvimento Front-End além de que sou entusiasta em User Experience (UX) e User Interface (UI).
 
-👨🏼‍💻 Estudando: React & Next.js
 </br>
     
 ## Ferramentas e Tecnologias
