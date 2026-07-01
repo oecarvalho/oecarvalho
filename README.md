@@ -1,11 +1,48 @@
 # Felipe Carvalho
-Um potiguar Front-End Developer & UX/UI Designer.
+Um potiguar Front-End Developer e entusiasta em Qualidade de Softwate.
 
 - Técnico em Informática para Internet pelo Instituto Metrópole Digital - UFRN;
 - Bacharel em Tecnologia da Informação (UFERSA) - Pau dos ferros;
 - Acadêmico em Engenharia de Software (UFERSA) - Pau dos ferros;
   
-Possuo experiência na área de Desenvolvimento Front-End além de que sou entusiasta em User Experience (UX) e User Interface (UI).
+Construo aplicações modernas com foco em:
+
+- Experiência do usuário
+- Performance
+- Arquitetura escalável
+- Qualidade de software
+- Testes automatizados
+
+
+# Projetos em destaque
+
+**⚒️ Hefestus**
+
+Plataforma inteligente para análise de vagas e geração de currículos personalizados utilizando IA.
+
+Stack
+
+Next.js • TypeScript • Prisma • PostgreSQL • Gemini AI • Playwright
+
+---
+
+**📊 Pizza Shop Dashboard**
+
+Dashboard React para gerenciamento de indicadores comerciais.
+
+Stack
+
+React • TypeScript • TanStack Query • Vitest
+
+---
+
+**🧪 Adopet**
+
+Projeto de automação End-to-End.
+
+Stack
+
+Cypress • GitHub Actions • Mochawesome
 
 </br>
     
