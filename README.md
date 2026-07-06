@@ -13,37 +13,6 @@ Construo aplicações modernas com foco em:
 - Qualidade de software
 - Testes automatizados
 
-
-# Projetos em destaque
-
-**⚒️ Hefestus**
-
-Plataforma inteligente para análise de vagas e geração de currículos personalizados utilizando IA.
-
-Stack
-
-Next.js • TypeScript • Prisma • PostgreSQL • Gemini AI • Playwright
-
----
-
-**📊 Pizza Shop Dashboard**
-
-Dashboard React para gerenciamento de indicadores comerciais.
-
-Stack
-
-React • TypeScript • TanStack Query • Vitest
-
----
-
-**🧪 Adopet**
-
-Projeto de automação End-to-End.
-
-Stack
-
-Cypress • GitHub Actions • Mochawesome
-
 </br>
     
 ## Ferramentas e Tecnologias
